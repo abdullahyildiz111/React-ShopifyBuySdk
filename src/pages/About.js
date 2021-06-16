@@ -8,13 +8,14 @@ const About = () => {
 
 
     return (
-        <Box>
+        <Box >
             <Grid>
                 <Flex
                     alignItems="center"
                     justifyContent="center"
                     pl="30%"
                     pr="30%"
+                    
                 >
                     <Image
                         src="https://www.dgm.com.tr/img/about-us.jpg"
@@ -22,8 +23,8 @@ const About = () => {
                 </Flex>
                 <Flex>
                     <Text
-                        pl="30%"
-                        pr="30%"
+                        pl="20%"
+                        pr="20%"
                         pb="10%"
                     >
                         The best About Us pages accomplish their goals through telling a story about a brand.
