@@ -4,13 +4,9 @@ import { Link } from 'react-router-dom';
 
  
 import {
-    Box,
-    Grid,
+    
     Text,
-    Flex,
     VStack,
-    Image,
-    Button,
     Drawer,
     DrawerBody,
     DrawerFooter,

@@ -1,12 +1,11 @@
 import React, { useContext } from 'react';
-import { Box, Grid, Flex, Image, Center, Text, Button } from '@chakra-ui/react';
+import { Box, Grid, Flex, Image, Text } from '@chakra-ui/react';
 
 import { ShopContext } from '../context/shopContext';
 
 
 const About = () => {
 
-    const { product } = useContext(ShopContext);
 
     return (
         <Box>

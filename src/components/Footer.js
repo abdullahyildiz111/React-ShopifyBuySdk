@@ -1,5 +1,4 @@
 import React from 'react'
-import { ShopContext } from '../context/shopContext';
 import { Grid, Box, Text, Image, VStack } from '@chakra-ui/react'
 import { Link } from 'react-router-dom';
 
